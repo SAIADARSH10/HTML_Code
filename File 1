@@ -1,12 +1,35 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>My First Page</title>
-</head>
+	<head>
+		    <title>My First Page</title>
 
-<body>
-    <h1>Let's Start Learning HTML</h1>
-    <p>This is my first HTML page.</p>
-</body>
+		        <script>
+				        function showMessage() {
+						            alert("Welcome Sai Adarsh! Let's learn HTML and JavaScript.");
+						        }
+						    </script>
 
-</html>
+	</head>
+
+	<body>
+
+		    <h1>Let's Start Learning HTML</h1>
+
+		        <p>This is my first HTML page.</p>
+
+			    <h2>Beautiful Nature Images</h2>
+
+			        <img src="https://picsum.photos/300/200" alt="Nature Image 1">
+				    <br><br>
+
+				        <img src="https://picsum.photos/300/201" alt="Nature Image 2">
+					    <br><br>
+
+					        <img src="https://picsum.photos/300/202" alt="Nature Image 3">
+						    <br><br>
+
+						        <button onclick="showMessage()">Click Me</button>
+
+	</body>
+
+</html>>
