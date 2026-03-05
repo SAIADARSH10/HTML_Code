@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		    <title>My First Page</title>
-
-		        <script>
-				        function showMessage() {
-						            alert("Welcome Sai Adarsh! Let's learn HTML and JavaScript.");
-						        }
-						    </script>
-
-	</head>
+		   
 
 	<body>
 
